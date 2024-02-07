@@ -12,3 +12,5 @@ Funcionalidades:
 
 Layout responsivo para diferentes dispositivos;
 Seções interativas com animações;
+
+Link do projeto: https://ninaninon.github.io/spotify-imersao-alura/
