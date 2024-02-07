@@ -1,4 +1,3 @@
-
 Projeto Landing Page - Imersão Front End Alura (Janeiro 2024)
 Descrição:
 
