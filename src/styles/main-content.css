@@ -129,7 +129,7 @@
     color:var(--text-base-light);
     font-size: 32px;
     font-weight: 700;
-    margin-bottom: 35px;
+    margin-bottom: 48px;
 }
 
 .playlist .session {
@@ -157,11 +157,9 @@
 
 .offer__list-item {
     display: grid;
-    justify-items: center;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 16px;
     gap: 16px;
-    margin-bottom: 16px;
+    grid-gap: 32px;
+    margin: 0 auto;
 }
 
 .cards {
